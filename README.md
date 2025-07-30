@@ -10,10 +10,6 @@ This project is a simple 2D platformer created with Unity, following [this tutor
 - Coroutine
 - ScriptableObject 
 
-## Demo
+## How to Play
 See gameplay video [here](https://hasanerdin.itch.io/game-of-life)
 
-## How to Play
-1. Open in Unity 6
-2. Load the main scene under `Assets/Scenes/`
-3. Press Play!
